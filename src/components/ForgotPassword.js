@@ -44,7 +44,7 @@ function ForgatPassword() {
                </Card.Body>
            </Card> 
            <div className="w-100 text-center mt-2">
-               Need an Account? <Link to="/signup">Sign up</Link>
+               Need an Account?? <Link to="/signup">Sign up</Link>
            </div>
         </>
 
